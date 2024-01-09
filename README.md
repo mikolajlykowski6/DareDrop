@@ -1,1 +1,1 @@
-# DareDrop
+# DareDrop - documentation of exploration process
